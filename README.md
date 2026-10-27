@@ -1,13 +1,7 @@
 <h1 align="center">👋 Hey, I'm Harris</h1>
 
 <p align="center">
-  <b>Cybersecurity student • Certified • Always breaking things (on purpose) 🔐</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/UTSA-Cyber%20Security-F15A22?style=for-the-badge&logo=academia&logoColor=white" alt="UTSA Cyber Security"/>
-  <img src="https://img.shields.io/badge/Class%20of-Freshman-0C2340?style=for-the-badge" alt="Freshman"/>
-</p>
+<b>Cybersecurity student • Certified • Always breaking things (on purpose) 🔐</b> </p> <p align="center"> <img src="https://img.shields.io/badge/UTSA-Cyber%20Security-F15A22?style=for-the-badge&logo=academia&logoColor=white" alt="UTSA Cyber Security"/> <img src="https://img.shields.io/badge/Class%20of-2030-0C2340?style=for-the-badge" alt="Class of 2030"/> </p>
 
 ---
 
